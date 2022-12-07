@@ -1,3 +1,14 @@
+## Info
+
+project forked from https://github.com/jmdugan/blocklists to provide exclusion lists for 
+[FRITZ!Box](https://en.avm.de/products/fritzbox/) routers: their exclusion filter is pretty limited,
+only 500 domains, and is composed of a sequence of domains separated by a whitespace.
+
+The small script that does the conversion of the files in the original repo is written in [Scala](https://www.scala-lang.org/).
+
+
+## Original README
+
 Group project to catalog and list domain names that people may want to block.  
 
 Current focus on corporations, for which there are no other maintained lists.
